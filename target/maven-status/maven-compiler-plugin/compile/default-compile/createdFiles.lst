@@ -1,0 +1,4 @@
+org/example/lr07_spring/Lr07SpringApplication.class
+org/example/lr07_spring/dao/StudentRepository.class
+org/example/lr07_spring/entity/Student.class
+org/example/lr07_spring/controller/StudentController.class
